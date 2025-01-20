@@ -1,6 +1,8 @@
 # Godot Derive Z Node
 Get the Z channel of a normal map from X & Y channels.
 This node only works in Godot 4.2 onwards.
+![image](https://github.com/user-attachments/assets/5fa60c3f-1130-469e-9a91-a17d02e97c51)
+
 
 # Method
 The node take X & Y as inputs and outputs the full normal map.
