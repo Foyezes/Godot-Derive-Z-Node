@@ -22,7 +22,7 @@ func _get_input_port_count():
 	return 2
 
 func _get_return_icon_type():
-	return VisualShaderNode.PORT_TYPE_SCALAR
+	return VisualShaderNode.PORT_TYPE_VECTOR_3D
 
 func _get_output_port_name(port):
 		return "result"
